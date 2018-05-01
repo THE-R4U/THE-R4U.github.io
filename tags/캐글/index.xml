@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>캐글 on THE-R</title>
+    <link>/tags/%EC%BA%90%EA%B8%80/</link>
+    <description>Recent content in 캐글 on THE-R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%EC%BA%90%EA%B8%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Kaggle] Overwatch Analysis</title>
+      <link>/2018/04/15/kaggle-overwatch-analysis/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/15/kaggle-overwatch-analysis/</guid>
+      <description>#load packages and csv file library(ggplot2) library(dplyr) library(gridExtra) library(fmsb) library(ggthemes) library(ggridges) library(RColorBrewer) library(grid) library(gridExtra) library(ggrepel) library(GGally) library(gplots) library(ggdendro) library(factoextra) library(NbClust) library(corrplot) library(corrgram) warning: according the data the dataset was posted, I estimated it to correspond to patch 1.8.0.2(February 28, 2017), so the data here may not reflect the actual characteristics of the Heroes
+Motivation There are 4 types of classes in Overwatch (wikia) :
+ Offense: main objective is to scout the area, harass the opposing team, and press the objective.</description>
+    </item>
+    
+  </channel>
+</rss>
